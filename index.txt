@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> my colorful web page</title>
+</head>
+<body bg color="lightblue">
+<h1 style="colo:darkblue;">Welcome to my web site</h1>
+<p style="color:blackk;">this is simple HTML web page with colors</p>
+<h2 style="color:green;">About me</h2>
+<p style="color:brown;">I am lerning HTML</p>
+</body>
+</html>
